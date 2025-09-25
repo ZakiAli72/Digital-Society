@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Digital Society Management React/Typescript",
+  "description": "A comprehensive web application to manage housing societies, their members, and payment receipts efficiently. Features an editable society profile, member management with automated monthly billing, and a dedicated receipt history.",
+  "requestFramePermissions": []
+}
